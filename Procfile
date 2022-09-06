@@ -1,0 +1,1 @@
+web: gunicorn Onam_api.wsgi
